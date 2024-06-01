@@ -48,7 +48,8 @@ supports basic products CRUD:
     ● Create a new product
     ● Get a list of all products
     ● Update a product
-2. The API should also support:
+    ● Delete a product
+3. The API should also support:
     ● Placing an order
     ● Retrieving all orders within a given time period
-3. Provide unit tests.
+4. Provide unit tests.
